@@ -1,1 +1,6 @@
-public class SkillDemoPrac {} //transition to VS Code
+
+public class SkillDemoPrac {
+    public static int simpleAdd(int n, int m){
+        return n + m;
+    }
+}
